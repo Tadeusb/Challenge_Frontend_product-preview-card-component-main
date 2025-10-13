@@ -121,10 +121,9 @@ body {
 }
 
 .attribution {
-    font-size: 1rem;
+     font-size: 1rem;
     text-align: center;
-    position: absolute;
-    bottom: 0.5rem;
+    margin-bottom: 1rem;
     color: var(--Black);
 }
 .attribution a {
@@ -164,3 +163,4 @@ body {
     }
 
 }
+
